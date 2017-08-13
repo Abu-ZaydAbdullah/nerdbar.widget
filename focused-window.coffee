@@ -1,4 +1,4 @@
-command: "echo $(/usr/local/bin/kwmc query window focused name)"
+command: "cd ~/Desktop && echo `osascript app.scpt`"
 
 refreshFrequency: 1000 # ms
 
@@ -7,10 +7,10 @@ render: (output) ->
 
 style: """
   -webkit-font-smoothing: antialiased
-  color: #D6E7EE
-  font: 11px Osaka-Mono
+  color: #171717
+  font: 12px Operator Mono Medium
   height: 16px
-  left: 10px
+  left: 20px
   overflow: hidden
   text-overflow: ellipsis
   top: 6px
