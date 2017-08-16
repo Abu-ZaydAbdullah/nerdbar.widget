@@ -10,7 +10,7 @@ style: """
   color: #171717
   font: 13px Operator Mono Medium
   right: 262px
-  top: 6px
+  top: 2px
   span
     color: #4285F4
 """

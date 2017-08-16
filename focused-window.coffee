@@ -1,4 +1,4 @@
-command: "cd ~/Desktop && echo `osascript app.scpt`"
+command: "cd ~/'Library/Application\ Support/Übersicht/widgets/nerdbar.widget' && osascript app.scpt"
 
 refreshFrequency: 1000 # ms
 
@@ -13,6 +13,6 @@ style: """
   left: 20px
   overflow: hidden
   text-overflow: ellipsis
-  top: 6px
+  top: 2px
   width: 500px
 """

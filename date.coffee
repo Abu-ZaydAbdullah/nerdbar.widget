@@ -10,5 +10,5 @@ style: """
   color: #B16286
   font: 13px Operator Mono Medium
   right: 60px
-  top: 6px
+  top: 2px
 """

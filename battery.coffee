@@ -8,8 +8,8 @@ render: (output) ->
 style: """
   -webkit-font-smoothing: antialiased
   font: 13px Operator Mono Medium
-  top: 6px
-  right: 145px
+  top: 2px
+  right: 150px
   color: #4285F4
   span
     color: #4285F4
